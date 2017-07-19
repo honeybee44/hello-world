@@ -1,2 +1,2 @@
 # hello-world
-Demo repository
+This is a branch with no leaves.
